@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/polygon_from_map_extent" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
