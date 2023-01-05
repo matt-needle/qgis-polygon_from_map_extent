@@ -1,5 +1,5 @@
 # Polygon from map extent
-An ultra-lightweight QGIS plugin to make a polygon from the current map extent.
+An ultra-lightweight QGIS plugin to make a polygon from the current map extent. This is useful when you want to quickly make an area of interest from your currrent view.
 
 A virtual layer is created using the project Coordinate Reference Sytem. The layer will persist in the project on saving and closing.
 
