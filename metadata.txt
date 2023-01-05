@@ -8,7 +8,7 @@ qgisMinimumVersion=3.0
 description=A lightweight QGIS plugin to make a polygon from the current map extent.
 version=0.1
 author=Matt Needle
-email=m_needle@hotmail.com
+email=matt.needle.nl@gmail.com
 
 about=A lightweight QGIS plugin to make a polygon from the current map extent.
 
