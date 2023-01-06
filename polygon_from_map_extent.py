@@ -207,7 +207,7 @@ class PolygonFromMapExtent:
 
         # create symbol and set properties
         sym = QgsSymbol.defaultSymbol(mask.geometryType())
-        s = sym[0]
+        s = sym.symbolLayers()[0]
         s.setColor(QColor("transparent"))
         s.setStrokeColor(QColor('fuchsia'))
         s.setStrokeWidth(1)
