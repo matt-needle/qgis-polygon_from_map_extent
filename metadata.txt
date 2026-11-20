@@ -3,10 +3,12 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
+
 name=Polygon from map extent
 qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
 description=A lightweight QGIS plugin to make a polygon from the current map extent.
-version=0.1
+version=0.3.0
 author=Matt Needle
 email=matt.needle.nl@gmail.com
 
